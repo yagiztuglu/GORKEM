@@ -1,1 +1,1 @@
-# GORKEM henüz yapım aşamasında ve githubı çözmeye çalışıyorum
+# GORKEM henüz yapım aşamasında 
