@@ -13,24 +13,5 @@ Belirtilen problemlerden yola çıkarak görme engelli bireylerin hareket kabili
 Şekil-1 Kemer Üzerinde Sensörlerin Yerleştirileceği Bölümler
 
 Şekil-1 de X ile işaretli yerlere yerleştireceğimiz kızılötesi sensörler yardımıyla kullanıcı 700’ye kadar görüş açısı kazandırarak cisimleri tespit edebilecek böylece beyaz bastonlardan çok daha geniş bir açıyı eş zamanlı olarak tarayabilecektir. En arkadaki sensör ise arkadan yaklaşacak tehlikelere karşı kullanıcıyı uyaracaktır.
-
-
-                                                  ![image](https://user-images.githubusercontent.com/89391171/181483685-e3609aac-8280-4e21-8e7b-0538b6cfddbe.png)
-
-
-                                    Şekil-2 Sensörlerin Kemer Üzerinde Tarayacağı Alan
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
+                                          ![image](https://user-images.githubusercontent.com/89391171/181484479-f149821f-3993-40cd-a09f-3ed8750dcff4.png)
+                          Şekil-2 Sensörlerin Kemer Üzerinde Tarayacağı Alan
